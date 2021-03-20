@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 # data root folder
-datapath = "../data/"
+datapath = "data/"
 
 
 #### make dataframe out of the 3 metadata files

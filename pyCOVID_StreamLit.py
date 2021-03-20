@@ -235,14 +235,6 @@ if section == "Modelization":
         st.subheader("Architecture")
         st.image("./streamlit_imgs/customCNN--archi.png")
 
-        from customCNNdesign import blunder1, blunder2
-
-        with st.beta_expander(label="Show blunder Pt. 1 :)"):
-            st.code(blunder1())
-
-        with st.beta_expander(label="Show blunder Pt. 2 :)"):
-            st.code(blunder2())
-
         st.markdown("<br>", unsafe_allow_html=True)
 
         st.subheader("Training hyperparameters")

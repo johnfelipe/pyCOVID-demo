@@ -4,7 +4,7 @@ import numpy as np
 ### error "file does not exist" with TensorFlow 2.1.0 (conda pycovid). Running ok on TF 2.4.1 (conda strmlt)
 ## doesn't work with full name (best_DenseNet201_Unfreezed--2021-02-23_18-23-58.h5), copied and renamed it to current dir
 # load the model
-dn201 = tf.keras.models.load_model("D:\\Documents\\GitHub\\DS--pycovid\\streamlit_demo\\model.h5")
+dn201 = tf.keras.models.load_model("D:\\Documents\\GitHub\\pyCOVID-demo\\model.h5")
 
 
 ###################################### Return model.summary()
@@ -20,7 +20,7 @@ def random_pick(diag_type):
 
     df = pd.read_csv("./src_files/data_test.csv")     # DF of test_set (from train_test_split random_state=123)
     types = ["NORMAL", "COVID", "Viral Pneumonia"]
-    datapath = "../data/"     # data root folder
+    datapath = "data/"     # data root folder
 
 
     if diag_type in types:
