@@ -1,0 +1,779 @@
+,filepaths,label,class,NORMAL,COVID,Viral Pneumonia
+0,./data/COVID/COVID (1).png,COVID,1,0,1,0
+1,./data/COVID/COVID (2).png,COVID,1,0,1,0
+3,./data/COVID/COVID (4).png,COVID,1,0,1,0
+17,./data/COVID/COVID (18).png,COVID,1,0,1,0
+19,./data/COVID/COVID (20).png,COVID,1,0,1,0
+20,./data/COVID/COVID (21).png,COVID,1,0,1,0
+23,./data/COVID/COVID (24).png,COVID,1,0,1,0
+30,./data/COVID/COVID (31).png,COVID,1,0,1,0
+36,./data/COVID/COVID (37).png,COVID,1,0,1,0
+38,./data/COVID/COVID (39).png,COVID,1,0,1,0
+44,./data/COVID/COVID (45).png,COVID,1,0,1,0
+48,./data/COVID/COVID (49).png,COVID,1,0,1,0
+61,./data/COVID/COVID (62).png,COVID,1,0,1,0
+65,./data/COVID/COVID (66).png,COVID,1,0,1,0
+68,./data/COVID/COVID (69).png,COVID,1,0,1,0
+69,./data/COVID/COVID (70).png,COVID,1,0,1,0
+76,./data/COVID/COVID (77).png,COVID,1,0,1,0
+78,./data/COVID/COVID (79).png,COVID,1,0,1,0
+87,./data/COVID/COVID (88).png,COVID,1,0,1,0
+93,./data/COVID/COVID (94).png,COVID,1,0,1,0
+95,./data/COVID/COVID (96).png,COVID,1,0,1,0
+97,./data/COVID/COVID (98).png,COVID,1,0,1,0
+109,./data/COVID/COVID (110).png,COVID,1,0,1,0
+115,./data/COVID/COVID (116).png,COVID,1,0,1,0
+121,./data/COVID/COVID (122).png,COVID,1,0,1,0
+130,./data/COVID/COVID (131).png,COVID,1,0,1,0
+133,./data/COVID/COVID (134).png,COVID,1,0,1,0
+143,./data/COVID/COVID (144).png,COVID,1,0,1,0
+144,./data/COVID/COVID (145).png,COVID,1,0,1,0
+145,./data/COVID/COVID (146).png,COVID,1,0,1,0
+150,./data/COVID/COVID (151).png,COVID,1,0,1,0
+154,./data/COVID/COVID (155).png,COVID,1,0,1,0
+158,./data/COVID/COVID (159).png,COVID,1,0,1,0
+161,./data/COVID/COVID (162).png,COVID,1,0,1,0
+166,./data/COVID/COVID (167).png,COVID,1,0,1,0
+169,./data/COVID/COVID (170).png,COVID,1,0,1,0
+171,./data/COVID/COVID (172).png,COVID,1,0,1,0
+173,./data/COVID/COVID (174).png,COVID,1,0,1,0
+185,./data/COVID/COVID (186).png,COVID,1,0,1,0
+186,./data/COVID/COVID (187).png,COVID,1,0,1,0
+194,./data/COVID/COVID (195).png,COVID,1,0,1,0
+201,./data/COVID/COVID (202).png,COVID,1,0,1,0
+203,./data/COVID/COVID (204).png,COVID,1,0,1,0
+205,./data/COVID/COVID (206).png,COVID,1,0,1,0
+210,./data/COVID/COVID (211).png,COVID,1,0,1,0
+212,./data/COVID/COVID (213).png,COVID,1,0,1,0
+230,./data/COVID/COVID (231).png,COVID,1,0,1,0
+233,./data/COVID/COVID (234).png,COVID,1,0,1,0
+251,./data/COVID/COVID (252).png,COVID,1,0,1,0
+252,./data/COVID/COVID (253).png,COVID,1,0,1,0
+255,./data/COVID/COVID (256).png,COVID,1,0,1,0
+258,./data/COVID/COVID (259).png,COVID,1,0,1,0
+262,./data/COVID/COVID (263).png,COVID,1,0,1,0
+283,./data/COVID/COVID (284).png,COVID,1,0,1,0
+286,./data/COVID/COVID (287).png,COVID,1,0,1,0
+291,./data/COVID/COVID (292).png,COVID,1,0,1,0
+297,./data/COVID/COVID (298).png,COVID,1,0,1,0
+298,./data/COVID/COVID (299).png,COVID,1,0,1,0
+302,./data/COVID/COVID (303).png,COVID,1,0,1,0
+313,./data/COVID/COVID (314).png,COVID,1,0,1,0
+315,./data/COVID/COVID (316).png,COVID,1,0,1,0
+316,./data/COVID/COVID (317).png,COVID,1,0,1,0
+322,./data/COVID/COVID (323).png,COVID,1,0,1,0
+332,./data/COVID/COVID (333).png,COVID,1,0,1,0
+334,./data/COVID/COVID (335).png,COVID,1,0,1,0
+338,./data/COVID/COVID (339).png,COVID,1,0,1,0
+339,./data/COVID/COVID (340).png,COVID,1,0,1,0
+345,./data/COVID/COVID (346).png,COVID,1,0,1,0
+347,./data/COVID/COVID (348).png,COVID,1,0,1,0
+361,./data/COVID/COVID (362).png,COVID,1,0,1,0
+374,./data/COVID/COVID (375).png,COVID,1,0,1,0
+382,./data/COVID/COVID (383).png,COVID,1,0,1,0
+386,./data/COVID/COVID (387).png,COVID,1,0,1,0
+394,./data/COVID/COVID (395).png,COVID,1,0,1,0
+411,./data/COVID/COVID (412).png,COVID,1,0,1,0
+413,./data/COVID/COVID (414).png,COVID,1,0,1,0
+416,./data/COVID/COVID (417).png,COVID,1,0,1,0
+424,./data/COVID/COVID (425).png,COVID,1,0,1,0
+425,./data/COVID/COVID (426).png,COVID,1,0,1,0
+435,./data/COVID/COVID (436).png,COVID,1,0,1,0
+436,./data/COVID/COVID (437).png,COVID,1,0,1,0
+438,./data/COVID/COVID (439).png,COVID,1,0,1,0
+442,./data/COVID/COVID (443).png,COVID,1,0,1,0
+443,./data/COVID/COVID (444).png,COVID,1,0,1,0
+444,./data/COVID/COVID (445).png,COVID,1,0,1,0
+456,./data/COVID/COVID (457).png,COVID,1,0,1,0
+464,./data/COVID/COVID (465).png,COVID,1,0,1,0
+467,./data/COVID/COVID (468).png,COVID,1,0,1,0
+470,./data/COVID/COVID (471).png,COVID,1,0,1,0
+472,./data/COVID/COVID (473).png,COVID,1,0,1,0
+473,./data/COVID/COVID (474).png,COVID,1,0,1,0
+475,./data/COVID/COVID (476).png,COVID,1,0,1,0
+479,./data/COVID/COVID (480).png,COVID,1,0,1,0
+481,./data/COVID/COVID (482).png,COVID,1,0,1,0
+482,./data/COVID/COVID (483).png,COVID,1,0,1,0
+485,./data/COVID/COVID (486).png,COVID,1,0,1,0
+486,./data/COVID/COVID (487).png,COVID,1,0,1,0
+488,./data/COVID/COVID (489).png,COVID,1,0,1,0
+489,./data/COVID/COVID (490).png,COVID,1,0,1,0
+499,./data/COVID/COVID (500).png,COVID,1,0,1,0
+509,./data/COVID/COVID (510).png,COVID,1,0,1,0
+514,./data/COVID/COVID (515).png,COVID,1,0,1,0
+517,./data/COVID/COVID (518).png,COVID,1,0,1,0
+518,./data/COVID/COVID (519).png,COVID,1,0,1,0
+520,./data/COVID/COVID (521).png,COVID,1,0,1,0
+522,./data/COVID/COVID (523).png,COVID,1,0,1,0
+523,./data/COVID/COVID (524).png,COVID,1,0,1,0
+525,./data/COVID/COVID (526).png,COVID,1,0,1,0
+542,./data/COVID/COVID (543).png,COVID,1,0,1,0
+543,./data/COVID/COVID (544).png,COVID,1,0,1,0
+548,./data/COVID/COVID (549).png,COVID,1,0,1,0
+561,./data/COVID/COVID (562).png,COVID,1,0,1,0
+566,./data/COVID/COVID (567).png,COVID,1,0,1,0
+570,./data/COVID/COVID (571).png,COVID,1,0,1,0
+577,./data/COVID/COVID (578).png,COVID,1,0,1,0
+582,./data/COVID/COVID (583).png,COVID,1,0,1,0
+592,./data/COVID/COVID (593).png,COVID,1,0,1,0
+608,./data/COVID/COVID (609).png,COVID,1,0,1,0
+612,./data/COVID/COVID (613).png,COVID,1,0,1,0
+621,./data/COVID/COVID (622).png,COVID,1,0,1,0
+632,./data/COVID/COVID (633).png,COVID,1,0,1,0
+635,./data/COVID/COVID (636).png,COVID,1,0,1,0
+637,./data/COVID/COVID (638).png,COVID,1,0,1,0
+644,./data/COVID/COVID (645).png,COVID,1,0,1,0
+651,./data/COVID/COVID (652).png,COVID,1,0,1,0
+652,./data/COVID/COVID (653).png,COVID,1,0,1,0
+653,./data/COVID/COVID (654).png,COVID,1,0,1,0
+659,./data/COVID/COVID (660).png,COVID,1,0,1,0
+660,./data/COVID/COVID (661).png,COVID,1,0,1,0
+666,./data/COVID/COVID (667).png,COVID,1,0,1,0
+669,./data/COVID/COVID (670).png,COVID,1,0,1,0
+673,./data/COVID/COVID (674).png,COVID,1,0,1,0
+676,./data/COVID/COVID (677).png,COVID,1,0,1,0
+679,./data/COVID/COVID (680).png,COVID,1,0,1,0
+685,./data/COVID/COVID (686).png,COVID,1,0,1,0
+686,./data/COVID/COVID (687).png,COVID,1,0,1,0
+696,./data/COVID/COVID (697).png,COVID,1,0,1,0
+700,./data/COVID/COVID (701).png,COVID,1,0,1,0
+703,./data/COVID/COVID (704).png,COVID,1,0,1,0
+719,./data/COVID/COVID (720).png,COVID,1,0,1,0
+724,./data/COVID/COVID (725).png,COVID,1,0,1,0
+726,./data/COVID/COVID (727).png,COVID,1,0,1,0
+733,./data/COVID/COVID (734).png,COVID,1,0,1,0
+737,./data/COVID/COVID (738).png,COVID,1,0,1,0
+753,./data/COVID/COVID (754).png,COVID,1,0,1,0
+754,./data/COVID/COVID (755).png,COVID,1,0,1,0
+761,./data/COVID/COVID (762).png,COVID,1,0,1,0
+762,./data/COVID/COVID (763).png,COVID,1,0,1,0
+763,./data/COVID/COVID (764).png,COVID,1,0,1,0
+764,./data/COVID/COVID (765).png,COVID,1,0,1,0
+782,./data/COVID/COVID (783).png,COVID,1,0,1,0
+786,./data/COVID/COVID (787).png,COVID,1,0,1,0
+787,./data/COVID/COVID (788).png,COVID,1,0,1,0
+788,./data/COVID/COVID (789).png,COVID,1,0,1,0
+791,./data/COVID/COVID (792).png,COVID,1,0,1,0
+793,./data/COVID/COVID (794).png,COVID,1,0,1,0
+794,./data/COVID/COVID (795).png,COVID,1,0,1,0
+795,./data/COVID/COVID (796).png,COVID,1,0,1,0
+811,./data/COVID/COVID (812).png,COVID,1,0,1,0
+817,./data/COVID/COVID (818).png,COVID,1,0,1,0
+839,./data/COVID/COVID (840).png,COVID,1,0,1,0
+842,./data/COVID/COVID (843).png,COVID,1,0,1,0
+855,./data/COVID/COVID (856).png,COVID,1,0,1,0
+865,./data/COVID/COVID (866).png,COVID,1,0,1,0
+866,./data/COVID/COVID (867).png,COVID,1,0,1,0
+867,./data/COVID/COVID (868).png,COVID,1,0,1,0
+870,./data/COVID/COVID (871).png,COVID,1,0,1,0
+873,./data/COVID/COVID (874).png,COVID,1,0,1,0
+876,./data/COVID/COVID (877).png,COVID,1,0,1,0
+877,./data/COVID/COVID (878).png,COVID,1,0,1,0
+879,./data/COVID/COVID (880).png,COVID,1,0,1,0
+880,./data/COVID/COVID (881).png,COVID,1,0,1,0
+883,./data/COVID/COVID (884).png,COVID,1,0,1,0
+886,./data/COVID/COVID (887).png,COVID,1,0,1,0
+887,./data/COVID/COVID (888).png,COVID,1,0,1,0
+892,./data/COVID/COVID (893).png,COVID,1,0,1,0
+893,./data/COVID/COVID (894).png,COVID,1,0,1,0
+898,./data/COVID/COVID (899).png,COVID,1,0,1,0
+904,./data/COVID/COVID (905).png,COVID,1,0,1,0
+910,./data/COVID/COVID (911).png,COVID,1,0,1,0
+911,./data/COVID/COVID (912).png,COVID,1,0,1,0
+912,./data/COVID/COVID (913).png,COVID,1,0,1,0
+918,./data/COVID/COVID (919).png,COVID,1,0,1,0
+927,./data/COVID/COVID (928).png,COVID,1,0,1,0
+929,./data/COVID/COVID (930).png,COVID,1,0,1,0
+932,./data/COVID/COVID (933).png,COVID,1,0,1,0
+941,./data/COVID/COVID (942).png,COVID,1,0,1,0
+944,./data/COVID/COVID (945).png,COVID,1,0,1,0
+949,./data/COVID/COVID (950).png,COVID,1,0,1,0
+953,./data/COVID/COVID (954).png,COVID,1,0,1,0
+955,./data/COVID/COVID (956).png,COVID,1,0,1,0
+956,./data/COVID/COVID (957).png,COVID,1,0,1,0
+960,./data/COVID/COVID (961).png,COVID,1,0,1,0
+980,./data/COVID/COVID (981).png,COVID,1,0,1,0
+983,./data/COVID/COVID (984).png,COVID,1,0,1,0
+986,./data/COVID/COVID (987).png,COVID,1,0,1,0
+988,./data/COVID/COVID (989).png,COVID,1,0,1,0
+990,./data/COVID/COVID (991).png,COVID,1,0,1,0
+998,./data/COVID/COVID (999).png,COVID,1,0,1,0
+999,./data/COVID/COVID (1000).png,COVID,1,0,1,0
+1001,./data/COVID/COVID (1002).png,COVID,1,0,1,0
+1014,./data/COVID/COVID (1015).png,COVID,1,0,1,0
+1018,./data/COVID/COVID (1019).png,COVID,1,0,1,0
+1023,./data/COVID/COVID (1024).png,COVID,1,0,1,0
+1027,./data/COVID/COVID (1028).png,COVID,1,0,1,0
+1033,./data/COVID/COVID (1034).png,COVID,1,0,1,0
+1039,./data/COVID/COVID (1040).png,COVID,1,0,1,0
+1053,./data/COVID/COVID (1054).png,COVID,1,0,1,0
+1063,./data/COVID/COVID (1064).png,COVID,1,0,1,0
+1075,./data/COVID/COVID (1076).png,COVID,1,0,1,0
+1078,./data/COVID/COVID (1079).png,COVID,1,0,1,0
+1080,./data/COVID/COVID (1081).png,COVID,1,0,1,0
+1086,./data/COVID/COVID (1087).png,COVID,1,0,1,0
+1100,./data/COVID/COVID (1101).png,COVID,1,0,1,0
+1107,./data/COVID/COVID (1108).png,COVID,1,0,1,0
+1109,./data/COVID/COVID (1110).png,COVID,1,0,1,0
+1114,./data/COVID/COVID (1115).png,COVID,1,0,1,0
+1116,./data/COVID/COVID (1117).png,COVID,1,0,1,0
+1125,./data/COVID/COVID (1126).png,COVID,1,0,1,0
+1129,./data/COVID/COVID (1130).png,COVID,1,0,1,0
+1133,./data/COVID/COVID (1134).png,COVID,1,0,1,0
+1135,./data/COVID/COVID (1136).png,COVID,1,0,1,0
+1141,./data/COVID/COVID (1142).png,COVID,1,0,1,0
+1146,./data/COVID/COVID (1147).png,COVID,1,0,1,0
+1148,./data/COVID/COVID (1149).png,COVID,1,0,1,0
+1149,./data/COVID/COVID (1150).png,COVID,1,0,1,0
+1152,./data/COVID/COVID (1153).png,COVID,1,0,1,0
+1153,./data/COVID/COVID (1154).png,COVID,1,0,1,0
+1157,./data/COVID/COVID (1158).png,COVID,1,0,1,0
+1161,./data/COVID/COVID (1162).png,COVID,1,0,1,0
+1169,./data/COVID/COVID (1170).png,COVID,1,0,1,0
+1170,./data/COVID/COVID (1171).png,COVID,1,0,1,0
+1171,./data/COVID/COVID (1172).png,COVID,1,0,1,0
+1172,./data/COVID/COVID (1173).png,COVID,1,0,1,0
+1174,./data/COVID/COVID (1175).png,COVID,1,0,1,0
+1185,./data/COVID/COVID (1186).png,COVID,1,0,1,0
+1188,./data/COVID/COVID (1189).png,COVID,1,0,1,0
+1191,./data/COVID/COVID (1192).png,COVID,1,0,1,0
+1194,./data/COVID/COVID (1195).png,COVID,1,0,1,0
+1198,./data/COVID/COVID (1199).png,COVID,1,0,1,0
+1201,./data/NORMAL/NORMAL (2).png,NORMAL,0,1,0,0
+1202,./data/NORMAL/NORMAL (3).png,NORMAL,0,1,0,0
+1203,./data/NORMAL/NORMAL (4).png,NORMAL,0,1,0,0
+1208,./data/NORMAL/NORMAL (9).png,NORMAL,0,1,0,0
+1214,./data/NORMAL/NORMAL (15).png,NORMAL,0,1,0,0
+1216,./data/NORMAL/NORMAL (17).png,NORMAL,0,1,0,0
+1217,./data/NORMAL/NORMAL (18).png,NORMAL,0,1,0,0
+1225,./data/NORMAL/NORMAL (26).png,NORMAL,0,1,0,0
+1239,./data/NORMAL/NORMAL (40).png,NORMAL,0,1,0,0
+1246,./data/NORMAL/NORMAL (47).png,NORMAL,0,1,0,0
+1247,./data/NORMAL/NORMAL (48).png,NORMAL,0,1,0,0
+1251,./data/NORMAL/NORMAL (52).png,NORMAL,0,1,0,0
+1253,./data/NORMAL/NORMAL (54).png,NORMAL,0,1,0,0
+1258,./data/NORMAL/NORMAL (59).png,NORMAL,0,1,0,0
+1260,./data/NORMAL/NORMAL (61).png,NORMAL,0,1,0,0
+1273,./data/NORMAL/NORMAL (74).png,NORMAL,0,1,0,0
+1277,./data/NORMAL/NORMAL (78).png,NORMAL,0,1,0,0
+1288,./data/NORMAL/NORMAL (89).png,NORMAL,0,1,0,0
+1292,./data/NORMAL/NORMAL (93).png,NORMAL,0,1,0,0
+1296,./data/NORMAL/NORMAL (97).png,NORMAL,0,1,0,0
+1299,./data/NORMAL/NORMAL (100).png,NORMAL,0,1,0,0
+1306,./data/NORMAL/NORMAL (107).png,NORMAL,0,1,0,0
+1311,./data/NORMAL/NORMAL (112).png,NORMAL,0,1,0,0
+1313,./data/NORMAL/NORMAL (114).png,NORMAL,0,1,0,0
+1333,./data/NORMAL/NORMAL (134).png,NORMAL,0,1,0,0
+1335,./data/NORMAL/NORMAL (136).png,NORMAL,0,1,0,0
+1337,./data/NORMAL/NORMAL (138).png,NORMAL,0,1,0,0
+1339,./data/NORMAL/NORMAL (140).png,NORMAL,0,1,0,0
+1340,./data/NORMAL/NORMAL (141).png,NORMAL,0,1,0,0
+1343,./data/NORMAL/NORMAL (144).png,NORMAL,0,1,0,0
+1346,./data/NORMAL/NORMAL (147).png,NORMAL,0,1,0,0
+1349,./data/NORMAL/NORMAL (150).png,NORMAL,0,1,0,0
+1358,./data/NORMAL/NORMAL (159).png,NORMAL,0,1,0,0
+1365,./data/NORMAL/NORMAL (166).png,NORMAL,0,1,0,0
+1368,./data/NORMAL/NORMAL (169).png,NORMAL,0,1,0,0
+1393,./data/NORMAL/NORMAL (194).png,NORMAL,0,1,0,0
+1394,./data/NORMAL/NORMAL (195).png,NORMAL,0,1,0,0
+1397,./data/NORMAL/NORMAL (198).png,NORMAL,0,1,0,0
+1413,./data/NORMAL/NORMAL (214).png,NORMAL,0,1,0,0
+1415,./data/NORMAL/NORMAL (216).png,NORMAL,0,1,0,0
+1420,./data/NORMAL/NORMAL (221).png,NORMAL,0,1,0,0
+1424,./data/NORMAL/NORMAL (225).png,NORMAL,0,1,0,0
+1438,./data/NORMAL/NORMAL (239).png,NORMAL,0,1,0,0
+1447,./data/NORMAL/NORMAL (248).png,NORMAL,0,1,0,0
+1455,./data/NORMAL/NORMAL (256).png,NORMAL,0,1,0,0
+1459,./data/NORMAL/NORMAL (260).png,NORMAL,0,1,0,0
+1462,./data/NORMAL/NORMAL (263).png,NORMAL,0,1,0,0
+1465,./data/NORMAL/NORMAL (266).png,NORMAL,0,1,0,0
+1471,./data/NORMAL/NORMAL (272).png,NORMAL,0,1,0,0
+1481,./data/NORMAL/NORMAL (282).png,NORMAL,0,1,0,0
+1490,./data/NORMAL/NORMAL (291).png,NORMAL,0,1,0,0
+1493,./data/NORMAL/NORMAL (294).png,NORMAL,0,1,0,0
+1496,./data/NORMAL/NORMAL (297).png,NORMAL,0,1,0,0
+1512,./data/NORMAL/NORMAL (313).png,NORMAL,0,1,0,0
+1521,./data/NORMAL/NORMAL (322).png,NORMAL,0,1,0,0
+1522,./data/NORMAL/NORMAL (323).png,NORMAL,0,1,0,0
+1523,./data/NORMAL/NORMAL (324).png,NORMAL,0,1,0,0
+1525,./data/NORMAL/NORMAL (326).png,NORMAL,0,1,0,0
+1530,./data/NORMAL/NORMAL (331).png,NORMAL,0,1,0,0
+1537,./data/NORMAL/NORMAL (338).png,NORMAL,0,1,0,0
+1539,./data/NORMAL/NORMAL (340).png,NORMAL,0,1,0,0
+1540,./data/NORMAL/NORMAL (341).png,NORMAL,0,1,0,0
+1542,./data/NORMAL/NORMAL (343).png,NORMAL,0,1,0,0
+1550,./data/NORMAL/NORMAL (351).png,NORMAL,0,1,0,0
+1555,./data/NORMAL/NORMAL (356).png,NORMAL,0,1,0,0
+1559,./data/NORMAL/NORMAL (360).png,NORMAL,0,1,0,0
+1560,./data/NORMAL/NORMAL (361).png,NORMAL,0,1,0,0
+1561,./data/NORMAL/NORMAL (362).png,NORMAL,0,1,0,0
+1571,./data/NORMAL/NORMAL (372).png,NORMAL,0,1,0,0
+1580,./data/NORMAL/NORMAL (381).png,NORMAL,0,1,0,0
+1583,./data/NORMAL/NORMAL (384).png,NORMAL,0,1,0,0
+1590,./data/NORMAL/NORMAL (391).png,NORMAL,0,1,0,0
+1601,./data/NORMAL/NORMAL (402).png,NORMAL,0,1,0,0
+1605,./data/NORMAL/NORMAL (406).png,NORMAL,0,1,0,0
+1607,./data/NORMAL/NORMAL (408).png,NORMAL,0,1,0,0
+1611,./data/NORMAL/NORMAL (412).png,NORMAL,0,1,0,0
+1612,./data/NORMAL/NORMAL (413).png,NORMAL,0,1,0,0
+1620,./data/NORMAL/NORMAL (421).png,NORMAL,0,1,0,0
+1622,./data/NORMAL/NORMAL (423).png,NORMAL,0,1,0,0
+1624,./data/NORMAL/NORMAL (425).png,NORMAL,0,1,0,0
+1632,./data/NORMAL/NORMAL (433).png,NORMAL,0,1,0,0
+1634,./data/NORMAL/NORMAL (435).png,NORMAL,0,1,0,0
+1638,./data/NORMAL/NORMAL (439).png,NORMAL,0,1,0,0
+1639,./data/NORMAL/NORMAL (440).png,NORMAL,0,1,0,0
+1641,./data/NORMAL/NORMAL (442).png,NORMAL,0,1,0,0
+1642,./data/NORMAL/NORMAL (443).png,NORMAL,0,1,0,0
+1651,./data/NORMAL/NORMAL (452).png,NORMAL,0,1,0,0
+1654,./data/NORMAL/NORMAL (455).png,NORMAL,0,1,0,0
+1659,./data/NORMAL/NORMAL (460).png,NORMAL,0,1,0,0
+1660,./data/NORMAL/NORMAL (461).png,NORMAL,0,1,0,0
+1664,./data/NORMAL/NORMAL (465).png,NORMAL,0,1,0,0
+1667,./data/NORMAL/NORMAL (468).png,NORMAL,0,1,0,0
+1671,./data/NORMAL/NORMAL (472).png,NORMAL,0,1,0,0
+1673,./data/NORMAL/NORMAL (474).png,NORMAL,0,1,0,0
+1675,./data/NORMAL/NORMAL (476).png,NORMAL,0,1,0,0
+1677,./data/NORMAL/NORMAL (478).png,NORMAL,0,1,0,0
+1680,./data/NORMAL/NORMAL (481).png,NORMAL,0,1,0,0
+1681,./data/NORMAL/NORMAL (482).png,NORMAL,0,1,0,0
+1684,./data/NORMAL/NORMAL (485).png,NORMAL,0,1,0,0
+1688,./data/NORMAL/NORMAL (489).png,NORMAL,0,1,0,0
+1693,./data/NORMAL/NORMAL (494).png,NORMAL,0,1,0,0
+1694,./data/NORMAL/NORMAL (495).png,NORMAL,0,1,0,0
+1695,./data/NORMAL/NORMAL (496).png,NORMAL,0,1,0,0
+1696,./data/NORMAL/NORMAL (497).png,NORMAL,0,1,0,0
+1703,./data/NORMAL/NORMAL (504).png,NORMAL,0,1,0,0
+1704,./data/NORMAL/NORMAL (505).png,NORMAL,0,1,0,0
+1715,./data/NORMAL/NORMAL (516).png,NORMAL,0,1,0,0
+1716,./data/NORMAL/NORMAL (517).png,NORMAL,0,1,0,0
+1719,./data/NORMAL/NORMAL (520).png,NORMAL,0,1,0,0
+1730,./data/NORMAL/NORMAL (531).png,NORMAL,0,1,0,0
+1737,./data/NORMAL/NORMAL (538).png,NORMAL,0,1,0,0
+1739,./data/NORMAL/NORMAL (540).png,NORMAL,0,1,0,0
+1744,./data/NORMAL/NORMAL (545).png,NORMAL,0,1,0,0
+1752,./data/NORMAL/NORMAL (553).png,NORMAL,0,1,0,0
+1755,./data/NORMAL/NORMAL (556).png,NORMAL,0,1,0,0
+1757,./data/NORMAL/NORMAL (558).png,NORMAL,0,1,0,0
+1762,./data/NORMAL/NORMAL (563).png,NORMAL,0,1,0,0
+1772,./data/NORMAL/NORMAL (573).png,NORMAL,0,1,0,0
+1773,./data/NORMAL/NORMAL (574).png,NORMAL,0,1,0,0
+1774,./data/NORMAL/NORMAL (575).png,NORMAL,0,1,0,0
+1775,./data/NORMAL/NORMAL (576).png,NORMAL,0,1,0,0
+1776,./data/NORMAL/NORMAL (577).png,NORMAL,0,1,0,0
+1783,./data/NORMAL/NORMAL (584).png,NORMAL,0,1,0,0
+1788,./data/NORMAL/NORMAL (589).png,NORMAL,0,1,0,0
+1789,./data/NORMAL/NORMAL (590).png,NORMAL,0,1,0,0
+1792,./data/NORMAL/NORMAL (593).png,NORMAL,0,1,0,0
+1793,./data/NORMAL/NORMAL (594).png,NORMAL,0,1,0,0
+1796,./data/NORMAL/NORMAL (597).png,NORMAL,0,1,0,0
+1801,./data/NORMAL/NORMAL (602).png,NORMAL,0,1,0,0
+1804,./data/NORMAL/NORMAL (605).png,NORMAL,0,1,0,0
+1808,./data/NORMAL/NORMAL (609).png,NORMAL,0,1,0,0
+1809,./data/NORMAL/NORMAL (610).png,NORMAL,0,1,0,0
+1812,./data/NORMAL/NORMAL (613).png,NORMAL,0,1,0,0
+1818,./data/NORMAL/NORMAL (619).png,NORMAL,0,1,0,0
+1822,./data/NORMAL/NORMAL (623).png,NORMAL,0,1,0,0
+1825,./data/NORMAL/NORMAL (626).png,NORMAL,0,1,0,0
+1829,./data/NORMAL/NORMAL (630).png,NORMAL,0,1,0,0
+1834,./data/NORMAL/NORMAL (635).png,NORMAL,0,1,0,0
+1835,./data/NORMAL/NORMAL (636).png,NORMAL,0,1,0,0
+1836,./data/NORMAL/NORMAL (637).png,NORMAL,0,1,0,0
+1838,./data/NORMAL/NORMAL (639).png,NORMAL,0,1,0,0
+1839,./data/NORMAL/NORMAL (640).png,NORMAL,0,1,0,0
+1840,./data/NORMAL/NORMAL (641).png,NORMAL,0,1,0,0
+1849,./data/NORMAL/NORMAL (650).png,NORMAL,0,1,0,0
+1858,./data/NORMAL/NORMAL (659).png,NORMAL,0,1,0,0
+1861,./data/NORMAL/NORMAL (662).png,NORMAL,0,1,0,0
+1865,./data/NORMAL/NORMAL (666).png,NORMAL,0,1,0,0
+1873,./data/NORMAL/NORMAL (674).png,NORMAL,0,1,0,0
+1886,./data/NORMAL/NORMAL (687).png,NORMAL,0,1,0,0
+1895,./data/NORMAL/NORMAL (696).png,NORMAL,0,1,0,0
+1918,./data/NORMAL/NORMAL (719).png,NORMAL,0,1,0,0
+1920,./data/NORMAL/NORMAL (721).png,NORMAL,0,1,0,0
+1931,./data/NORMAL/NORMAL (732).png,NORMAL,0,1,0,0
+1944,./data/NORMAL/NORMAL (745).png,NORMAL,0,1,0,0
+1950,./data/NORMAL/NORMAL (751).png,NORMAL,0,1,0,0
+1951,./data/NORMAL/NORMAL (752).png,NORMAL,0,1,0,0
+1952,./data/NORMAL/NORMAL (753).png,NORMAL,0,1,0,0
+1955,./data/NORMAL/NORMAL (756).png,NORMAL,0,1,0,0
+1957,./data/NORMAL/NORMAL (758).png,NORMAL,0,1,0,0
+1962,./data/NORMAL/NORMAL (763).png,NORMAL,0,1,0,0
+1963,./data/NORMAL/NORMAL (764).png,NORMAL,0,1,0,0
+1966,./data/NORMAL/NORMAL (767).png,NORMAL,0,1,0,0
+1969,./data/NORMAL/NORMAL (770).png,NORMAL,0,1,0,0
+1981,./data/NORMAL/NORMAL (782).png,NORMAL,0,1,0,0
+1990,./data/NORMAL/NORMAL (791).png,NORMAL,0,1,0,0
+1991,./data/NORMAL/NORMAL (792).png,NORMAL,0,1,0,0
+1995,./data/NORMAL/NORMAL (796).png,NORMAL,0,1,0,0
+2006,./data/NORMAL/NORMAL (807).png,NORMAL,0,1,0,0
+2015,./data/NORMAL/NORMAL (816).png,NORMAL,0,1,0,0
+2018,./data/NORMAL/NORMAL (819).png,NORMAL,0,1,0,0
+2019,./data/NORMAL/NORMAL (820).png,NORMAL,0,1,0,0
+2026,./data/NORMAL/NORMAL (827).png,NORMAL,0,1,0,0
+2030,./data/NORMAL/NORMAL (831).png,NORMAL,0,1,0,0
+2036,./data/NORMAL/NORMAL (837).png,NORMAL,0,1,0,0
+2037,./data/NORMAL/NORMAL (838).png,NORMAL,0,1,0,0
+2043,./data/NORMAL/NORMAL (844).png,NORMAL,0,1,0,0
+2046,./data/NORMAL/NORMAL (847).png,NORMAL,0,1,0,0
+2055,./data/NORMAL/NORMAL (856).png,NORMAL,0,1,0,0
+2062,./data/NORMAL/NORMAL (863).png,NORMAL,0,1,0,0
+2067,./data/NORMAL/NORMAL (868).png,NORMAL,0,1,0,0
+2081,./data/NORMAL/NORMAL (882).png,NORMAL,0,1,0,0
+2084,./data/NORMAL/NORMAL (885).png,NORMAL,0,1,0,0
+2085,./data/NORMAL/NORMAL (886).png,NORMAL,0,1,0,0
+2086,./data/NORMAL/NORMAL (887).png,NORMAL,0,1,0,0
+2089,./data/NORMAL/NORMAL (890).png,NORMAL,0,1,0,0
+2096,./data/NORMAL/NORMAL (897).png,NORMAL,0,1,0,0
+2099,./data/NORMAL/NORMAL (900).png,NORMAL,0,1,0,0
+2100,./data/NORMAL/NORMAL (901).png,NORMAL,0,1,0,0
+2101,./data/NORMAL/NORMAL (902).png,NORMAL,0,1,0,0
+2113,./data/NORMAL/NORMAL (914).png,NORMAL,0,1,0,0
+2124,./data/NORMAL/NORMAL (925).png,NORMAL,0,1,0,0
+2126,./data/NORMAL/NORMAL (927).png,NORMAL,0,1,0,0
+2131,./data/NORMAL/NORMAL (932).png,NORMAL,0,1,0,0
+2140,./data/NORMAL/NORMAL (941).png,NORMAL,0,1,0,0
+2142,./data/NORMAL/NORMAL (943).png,NORMAL,0,1,0,0
+2150,./data/NORMAL/NORMAL (951).png,NORMAL,0,1,0,0
+2155,./data/NORMAL/NORMAL (956).png,NORMAL,0,1,0,0
+2159,./data/NORMAL/NORMAL (960).png,NORMAL,0,1,0,0
+2177,./data/NORMAL/NORMAL (978).png,NORMAL,0,1,0,0
+2178,./data/NORMAL/NORMAL (979).png,NORMAL,0,1,0,0
+2179,./data/NORMAL/NORMAL (980).png,NORMAL,0,1,0,0
+2183,./data/NORMAL/NORMAL (984).png,NORMAL,0,1,0,0
+2192,./data/NORMAL/NORMAL (993).png,NORMAL,0,1,0,0
+2197,./data/NORMAL/NORMAL (998).png,NORMAL,0,1,0,0
+2198,./data/NORMAL/NORMAL (999).png,NORMAL,0,1,0,0
+2199,./data/NORMAL/NORMAL (1000).png,NORMAL,0,1,0,0
+2203,./data/NORMAL/NORMAL (1004).png,NORMAL,0,1,0,0
+2206,./data/NORMAL/NORMAL (1007).png,NORMAL,0,1,0,0
+2213,./data/NORMAL/NORMAL (1014).png,NORMAL,0,1,0,0
+2216,./data/NORMAL/NORMAL (1017).png,NORMAL,0,1,0,0
+2234,./data/NORMAL/NORMAL (1035).png,NORMAL,0,1,0,0
+2236,./data/NORMAL/NORMAL (1037).png,NORMAL,0,1,0,0
+2238,./data/NORMAL/NORMAL (1039).png,NORMAL,0,1,0,0
+2241,./data/NORMAL/NORMAL (1042).png,NORMAL,0,1,0,0
+2243,./data/NORMAL/NORMAL (1044).png,NORMAL,0,1,0,0
+2253,./data/NORMAL/NORMAL (1054).png,NORMAL,0,1,0,0
+2261,./data/NORMAL/NORMAL (1062).png,NORMAL,0,1,0,0
+2263,./data/NORMAL/NORMAL (1064).png,NORMAL,0,1,0,0
+2268,./data/NORMAL/NORMAL (1069).png,NORMAL,0,1,0,0
+2280,./data/NORMAL/NORMAL (1081).png,NORMAL,0,1,0,0
+2289,./data/NORMAL/NORMAL (1090).png,NORMAL,0,1,0,0
+2291,./data/NORMAL/NORMAL (1092).png,NORMAL,0,1,0,0
+2292,./data/NORMAL/NORMAL (1093).png,NORMAL,0,1,0,0
+2293,./data/NORMAL/NORMAL (1094).png,NORMAL,0,1,0,0
+2300,./data/NORMAL/NORMAL (1101).png,NORMAL,0,1,0,0
+2310,./data/NORMAL/NORMAL (1111).png,NORMAL,0,1,0,0
+2311,./data/NORMAL/NORMAL (1112).png,NORMAL,0,1,0,0
+2312,./data/NORMAL/NORMAL (1113).png,NORMAL,0,1,0,0
+2321,./data/NORMAL/NORMAL (1122).png,NORMAL,0,1,0,0
+2322,./data/NORMAL/NORMAL (1123).png,NORMAL,0,1,0,0
+2326,./data/NORMAL/NORMAL (1127).png,NORMAL,0,1,0,0
+2332,./data/NORMAL/NORMAL (1133).png,NORMAL,0,1,0,0
+2333,./data/NORMAL/NORMAL (1134).png,NORMAL,0,1,0,0
+2336,./data/NORMAL/NORMAL (1137).png,NORMAL,0,1,0,0
+2347,./data/NORMAL/NORMAL (1148).png,NORMAL,0,1,0,0
+2350,./data/NORMAL/NORMAL (1151).png,NORMAL,0,1,0,0
+2353,./data/NORMAL/NORMAL (1154).png,NORMAL,0,1,0,0
+2354,./data/NORMAL/NORMAL (1155).png,NORMAL,0,1,0,0
+2359,./data/NORMAL/NORMAL (1160).png,NORMAL,0,1,0,0
+2363,./data/NORMAL/NORMAL (1164).png,NORMAL,0,1,0,0
+2365,./data/NORMAL/NORMAL (1166).png,NORMAL,0,1,0,0
+2376,./data/NORMAL/NORMAL (1177).png,NORMAL,0,1,0,0
+2378,./data/NORMAL/NORMAL (1179).png,NORMAL,0,1,0,0
+2387,./data/NORMAL/NORMAL (1188).png,NORMAL,0,1,0,0
+2392,./data/NORMAL/NORMAL (1193).png,NORMAL,0,1,0,0
+2400,./data/NORMAL/NORMAL (1201).png,NORMAL,0,1,0,0
+2404,./data/NORMAL/NORMAL (1205).png,NORMAL,0,1,0,0
+2410,./data/NORMAL/NORMAL (1211).png,NORMAL,0,1,0,0
+2422,./data/NORMAL/NORMAL (1223).png,NORMAL,0,1,0,0
+2429,./data/NORMAL/NORMAL (1230).png,NORMAL,0,1,0,0
+2432,./data/NORMAL/NORMAL (1233).png,NORMAL,0,1,0,0
+2438,./data/NORMAL/NORMAL (1239).png,NORMAL,0,1,0,0
+2446,./data/NORMAL/NORMAL (1247).png,NORMAL,0,1,0,0
+2463,./data/NORMAL/NORMAL (1264).png,NORMAL,0,1,0,0
+2468,./data/NORMAL/NORMAL (1269).png,NORMAL,0,1,0,0
+2475,./data/NORMAL/NORMAL (1276).png,NORMAL,0,1,0,0
+2477,./data/NORMAL/NORMAL (1278).png,NORMAL,0,1,0,0
+2488,./data/NORMAL/NORMAL (1289).png,NORMAL,0,1,0,0
+2491,./data/NORMAL/NORMAL (1292).png,NORMAL,0,1,0,0
+2495,./data/NORMAL/NORMAL (1296).png,NORMAL,0,1,0,0
+2499,./data/NORMAL/NORMAL (1300).png,NORMAL,0,1,0,0
+2506,./data/NORMAL/NORMAL (1307).png,NORMAL,0,1,0,0
+2508,./data/NORMAL/NORMAL (1309).png,NORMAL,0,1,0,0
+2511,./data/NORMAL/NORMAL (1312).png,NORMAL,0,1,0,0
+2513,./data/NORMAL/NORMAL (1314).png,NORMAL,0,1,0,0
+2515,./data/NORMAL/NORMAL (1316).png,NORMAL,0,1,0,0
+2519,./data/NORMAL/NORMAL (1320).png,NORMAL,0,1,0,0
+2531,./data/NORMAL/NORMAL (1332).png,NORMAL,0,1,0,0
+2538,./data/NORMAL/NORMAL (1339).png,NORMAL,0,1,0,0
+2545,./data/Viral Pneumonia/Viral Pneumonia (5).png,Viral Pneumonia,2,0,0,1
+2548,./data/Viral Pneumonia/Viral Pneumonia (8).png,Viral Pneumonia,2,0,0,1
+2555,./data/Viral Pneumonia/Viral Pneumonia (15).png,Viral Pneumonia,2,0,0,1
+2560,./data/Viral Pneumonia/Viral Pneumonia (20).png,Viral Pneumonia,2,0,0,1
+2561,./data/Viral Pneumonia/Viral Pneumonia (21).png,Viral Pneumonia,2,0,0,1
+2576,./data/Viral Pneumonia/Viral Pneumonia (36).png,Viral Pneumonia,2,0,0,1
+2589,./data/Viral Pneumonia/Viral Pneumonia (49).png,Viral Pneumonia,2,0,0,1
+2592,./data/Viral Pneumonia/Viral Pneumonia (52).png,Viral Pneumonia,2,0,0,1
+2595,./data/Viral Pneumonia/Viral Pneumonia (55).png,Viral Pneumonia,2,0,0,1
+2601,./data/Viral Pneumonia/Viral Pneumonia (61).png,Viral Pneumonia,2,0,0,1
+2609,./data/Viral Pneumonia/Viral Pneumonia (69).png,Viral Pneumonia,2,0,0,1
+2610,./data/Viral Pneumonia/Viral Pneumonia (70).png,Viral Pneumonia,2,0,0,1
+2611,./data/Viral Pneumonia/Viral Pneumonia (71).png,Viral Pneumonia,2,0,0,1
+2615,./data/Viral Pneumonia/Viral Pneumonia (75).png,Viral Pneumonia,2,0,0,1
+2627,./data/Viral Pneumonia/Viral Pneumonia (87).png,Viral Pneumonia,2,0,0,1
+2628,./data/Viral Pneumonia/Viral Pneumonia (88).png,Viral Pneumonia,2,0,0,1
+2631,./data/Viral Pneumonia/Viral Pneumonia (91).png,Viral Pneumonia,2,0,0,1
+2632,./data/Viral Pneumonia/Viral Pneumonia (92).png,Viral Pneumonia,2,0,0,1
+2644,./data/Viral Pneumonia/Viral Pneumonia (104).png,Viral Pneumonia,2,0,0,1
+2645,./data/Viral Pneumonia/Viral Pneumonia (105).png,Viral Pneumonia,2,0,0,1
+2650,./data/Viral Pneumonia/Viral Pneumonia (110).png,Viral Pneumonia,2,0,0,1
+2653,./data/Viral Pneumonia/Viral Pneumonia (113).png,Viral Pneumonia,2,0,0,1
+2658,./data/Viral Pneumonia/Viral Pneumonia (118).png,Viral Pneumonia,2,0,0,1
+2659,./data/Viral Pneumonia/Viral Pneumonia (119).png,Viral Pneumonia,2,0,0,1
+2664,./data/Viral Pneumonia/Viral Pneumonia (124).png,Viral Pneumonia,2,0,0,1
+2668,./data/Viral Pneumonia/Viral Pneumonia (128).png,Viral Pneumonia,2,0,0,1
+2670,./data/Viral Pneumonia/Viral Pneumonia (130).png,Viral Pneumonia,2,0,0,1
+2677,./data/Viral Pneumonia/Viral Pneumonia (137).png,Viral Pneumonia,2,0,0,1
+2680,./data/Viral Pneumonia/Viral Pneumonia (140).png,Viral Pneumonia,2,0,0,1
+2681,./data/Viral Pneumonia/Viral Pneumonia (141).png,Viral Pneumonia,2,0,0,1
+2682,./data/Viral Pneumonia/Viral Pneumonia (142).png,Viral Pneumonia,2,0,0,1
+2686,./data/Viral Pneumonia/Viral Pneumonia (146).png,Viral Pneumonia,2,0,0,1
+2688,./data/Viral Pneumonia/Viral Pneumonia (148).png,Viral Pneumonia,2,0,0,1
+2701,./data/Viral Pneumonia/Viral Pneumonia (161).png,Viral Pneumonia,2,0,0,1
+2704,./data/Viral Pneumonia/Viral Pneumonia (164).png,Viral Pneumonia,2,0,0,1
+2712,./data/Viral Pneumonia/Viral Pneumonia (172).png,Viral Pneumonia,2,0,0,1
+2714,./data/Viral Pneumonia/Viral Pneumonia (174).png,Viral Pneumonia,2,0,0,1
+2719,./data/Viral Pneumonia/Viral Pneumonia (179).png,Viral Pneumonia,2,0,0,1
+2723,./data/Viral Pneumonia/Viral Pneumonia (183).png,Viral Pneumonia,2,0,0,1
+2724,./data/Viral Pneumonia/Viral Pneumonia (184).png,Viral Pneumonia,2,0,0,1
+2727,./data/Viral Pneumonia/Viral Pneumonia (187).png,Viral Pneumonia,2,0,0,1
+2731,./data/Viral Pneumonia/Viral Pneumonia (191).png,Viral Pneumonia,2,0,0,1
+2734,./data/Viral Pneumonia/Viral Pneumonia (194).png,Viral Pneumonia,2,0,0,1
+2741,./data/Viral Pneumonia/Viral Pneumonia (201).png,Viral Pneumonia,2,0,0,1
+2744,./data/Viral Pneumonia/Viral Pneumonia (204).png,Viral Pneumonia,2,0,0,1
+2749,./data/Viral Pneumonia/Viral Pneumonia (209).png,Viral Pneumonia,2,0,0,1
+2757,./data/Viral Pneumonia/Viral Pneumonia (217).png,Viral Pneumonia,2,0,0,1
+2760,./data/Viral Pneumonia/Viral Pneumonia (220).png,Viral Pneumonia,2,0,0,1
+2767,./data/Viral Pneumonia/Viral Pneumonia (227).png,Viral Pneumonia,2,0,0,1
+2769,./data/Viral Pneumonia/Viral Pneumonia (229).png,Viral Pneumonia,2,0,0,1
+2771,./data/Viral Pneumonia/Viral Pneumonia (231).png,Viral Pneumonia,2,0,0,1
+2777,./data/Viral Pneumonia/Viral Pneumonia (237).png,Viral Pneumonia,2,0,0,1
+2780,./data/Viral Pneumonia/Viral Pneumonia (240).png,Viral Pneumonia,2,0,0,1
+2787,./data/Viral Pneumonia/Viral Pneumonia (247).png,Viral Pneumonia,2,0,0,1
+2790,./data/Viral Pneumonia/Viral Pneumonia (250).png,Viral Pneumonia,2,0,0,1
+2796,./data/Viral Pneumonia/Viral Pneumonia (256).png,Viral Pneumonia,2,0,0,1
+2811,./data/Viral Pneumonia/Viral Pneumonia (271).png,Viral Pneumonia,2,0,0,1
+2814,./data/Viral Pneumonia/Viral Pneumonia (274).png,Viral Pneumonia,2,0,0,1
+2828,./data/Viral Pneumonia/Viral Pneumonia (288).png,Viral Pneumonia,2,0,0,1
+2837,./data/Viral Pneumonia/Viral Pneumonia (297).png,Viral Pneumonia,2,0,0,1
+2840,./data/Viral Pneumonia/Viral Pneumonia (300).png,Viral Pneumonia,2,0,0,1
+2841,./data/Viral Pneumonia/Viral Pneumonia (301).png,Viral Pneumonia,2,0,0,1
+2845,./data/Viral Pneumonia/Viral Pneumonia (305).png,Viral Pneumonia,2,0,0,1
+2849,./data/Viral Pneumonia/Viral Pneumonia (309).png,Viral Pneumonia,2,0,0,1
+2851,./data/Viral Pneumonia/Viral Pneumonia (311).png,Viral Pneumonia,2,0,0,1
+2854,./data/Viral Pneumonia/Viral Pneumonia (314).png,Viral Pneumonia,2,0,0,1
+2859,./data/Viral Pneumonia/Viral Pneumonia (319).png,Viral Pneumonia,2,0,0,1
+2869,./data/Viral Pneumonia/Viral Pneumonia (329).png,Viral Pneumonia,2,0,0,1
+2872,./data/Viral Pneumonia/Viral Pneumonia (332).png,Viral Pneumonia,2,0,0,1
+2873,./data/Viral Pneumonia/Viral Pneumonia (333).png,Viral Pneumonia,2,0,0,1
+2874,./data/Viral Pneumonia/Viral Pneumonia (334).png,Viral Pneumonia,2,0,0,1
+2877,./data/Viral Pneumonia/Viral Pneumonia (337).png,Viral Pneumonia,2,0,0,1
+2881,./data/Viral Pneumonia/Viral Pneumonia (341).png,Viral Pneumonia,2,0,0,1
+2888,./data/Viral Pneumonia/Viral Pneumonia (348).png,Viral Pneumonia,2,0,0,1
+2889,./data/Viral Pneumonia/Viral Pneumonia (349).png,Viral Pneumonia,2,0,0,1
+2892,./data/Viral Pneumonia/Viral Pneumonia (352).png,Viral Pneumonia,2,0,0,1
+2894,./data/Viral Pneumonia/Viral Pneumonia (354).png,Viral Pneumonia,2,0,0,1
+2903,./data/Viral Pneumonia/Viral Pneumonia (363).png,Viral Pneumonia,2,0,0,1
+2909,./data/Viral Pneumonia/Viral Pneumonia (369).png,Viral Pneumonia,2,0,0,1
+2911,./data/Viral Pneumonia/Viral Pneumonia (371).png,Viral Pneumonia,2,0,0,1
+2913,./data/Viral Pneumonia/Viral Pneumonia (373).png,Viral Pneumonia,2,0,0,1
+2914,./data/Viral Pneumonia/Viral Pneumonia (374).png,Viral Pneumonia,2,0,0,1
+2916,./data/Viral Pneumonia/Viral Pneumonia (376).png,Viral Pneumonia,2,0,0,1
+2923,./data/Viral Pneumonia/Viral Pneumonia (383).png,Viral Pneumonia,2,0,0,1
+2935,./data/Viral Pneumonia/Viral Pneumonia (395).png,Viral Pneumonia,2,0,0,1
+2945,./data/Viral Pneumonia/Viral Pneumonia (405).png,Viral Pneumonia,2,0,0,1
+2948,./data/Viral Pneumonia/Viral Pneumonia (408).png,Viral Pneumonia,2,0,0,1
+2952,./data/Viral Pneumonia/Viral Pneumonia (412).png,Viral Pneumonia,2,0,0,1
+2959,./data/Viral Pneumonia/Viral Pneumonia (419).png,Viral Pneumonia,2,0,0,1
+2960,./data/Viral Pneumonia/Viral Pneumonia (420).png,Viral Pneumonia,2,0,0,1
+2962,./data/Viral Pneumonia/Viral Pneumonia (422).png,Viral Pneumonia,2,0,0,1
+2963,./data/Viral Pneumonia/Viral Pneumonia (423).png,Viral Pneumonia,2,0,0,1
+2972,./data/Viral Pneumonia/Viral Pneumonia (432).png,Viral Pneumonia,2,0,0,1
+2976,./data/Viral Pneumonia/Viral Pneumonia (436).png,Viral Pneumonia,2,0,0,1
+2990,./data/Viral Pneumonia/Viral Pneumonia (450).png,Viral Pneumonia,2,0,0,1
+3000,./data/Viral Pneumonia/Viral Pneumonia (460).png,Viral Pneumonia,2,0,0,1
+3009,./data/Viral Pneumonia/Viral Pneumonia (469).png,Viral Pneumonia,2,0,0,1
+3011,./data/Viral Pneumonia/Viral Pneumonia (471).png,Viral Pneumonia,2,0,0,1
+3025,./data/Viral Pneumonia/Viral Pneumonia (485).png,Viral Pneumonia,2,0,0,1
+3027,./data/Viral Pneumonia/Viral Pneumonia (487).png,Viral Pneumonia,2,0,0,1
+3033,./data/Viral Pneumonia/Viral Pneumonia (493).png,Viral Pneumonia,2,0,0,1
+3034,./data/Viral Pneumonia/Viral Pneumonia (494).png,Viral Pneumonia,2,0,0,1
+3035,./data/Viral Pneumonia/Viral Pneumonia (495).png,Viral Pneumonia,2,0,0,1
+3042,./data/Viral Pneumonia/Viral Pneumonia (502).png,Viral Pneumonia,2,0,0,1
+3045,./data/Viral Pneumonia/Viral Pneumonia (505).png,Viral Pneumonia,2,0,0,1
+3048,./data/Viral Pneumonia/Viral Pneumonia (508).png,Viral Pneumonia,2,0,0,1
+3054,./data/Viral Pneumonia/Viral Pneumonia (514).png,Viral Pneumonia,2,0,0,1
+3055,./data/Viral Pneumonia/Viral Pneumonia (515).png,Viral Pneumonia,2,0,0,1
+3071,./data/Viral Pneumonia/Viral Pneumonia (531).png,Viral Pneumonia,2,0,0,1
+3075,./data/Viral Pneumonia/Viral Pneumonia (535).png,Viral Pneumonia,2,0,0,1
+3076,./data/Viral Pneumonia/Viral Pneumonia (536).png,Viral Pneumonia,2,0,0,1
+3080,./data/Viral Pneumonia/Viral Pneumonia (540).png,Viral Pneumonia,2,0,0,1
+3087,./data/Viral Pneumonia/Viral Pneumonia (547).png,Viral Pneumonia,2,0,0,1
+3089,./data/Viral Pneumonia/Viral Pneumonia (549).png,Viral Pneumonia,2,0,0,1
+3101,./data/Viral Pneumonia/Viral Pneumonia (561).png,Viral Pneumonia,2,0,0,1
+3102,./data/Viral Pneumonia/Viral Pneumonia (562).png,Viral Pneumonia,2,0,0,1
+3103,./data/Viral Pneumonia/Viral Pneumonia (563).png,Viral Pneumonia,2,0,0,1
+3107,./data/Viral Pneumonia/Viral Pneumonia (567).png,Viral Pneumonia,2,0,0,1
+3111,./data/Viral Pneumonia/Viral Pneumonia (571).png,Viral Pneumonia,2,0,0,1
+3114,./data/Viral Pneumonia/Viral Pneumonia (574).png,Viral Pneumonia,2,0,0,1
+3118,./data/Viral Pneumonia/Viral Pneumonia (578).png,Viral Pneumonia,2,0,0,1
+3125,./data/Viral Pneumonia/Viral Pneumonia (585).png,Viral Pneumonia,2,0,0,1
+3136,./data/Viral Pneumonia/Viral Pneumonia (596).png,Viral Pneumonia,2,0,0,1
+3153,./data/Viral Pneumonia/Viral Pneumonia (613).png,Viral Pneumonia,2,0,0,1
+3160,./data/Viral Pneumonia/Viral Pneumonia (620).png,Viral Pneumonia,2,0,0,1
+3162,./data/Viral Pneumonia/Viral Pneumonia (622).png,Viral Pneumonia,2,0,0,1
+3163,./data/Viral Pneumonia/Viral Pneumonia (623).png,Viral Pneumonia,2,0,0,1
+3171,./data/Viral Pneumonia/Viral Pneumonia (631).png,Viral Pneumonia,2,0,0,1
+3175,./data/Viral Pneumonia/Viral Pneumonia (635).png,Viral Pneumonia,2,0,0,1
+3179,./data/Viral Pneumonia/Viral Pneumonia (639).png,Viral Pneumonia,2,0,0,1
+3185,./data/Viral Pneumonia/Viral Pneumonia (645).png,Viral Pneumonia,2,0,0,1
+3186,./data/Viral Pneumonia/Viral Pneumonia (646).png,Viral Pneumonia,2,0,0,1
+3191,./data/Viral Pneumonia/Viral Pneumonia (651).png,Viral Pneumonia,2,0,0,1
+3198,./data/Viral Pneumonia/Viral Pneumonia (658).png,Viral Pneumonia,2,0,0,1
+3202,./data/Viral Pneumonia/Viral Pneumonia (662).png,Viral Pneumonia,2,0,0,1
+3205,./data/Viral Pneumonia/Viral Pneumonia (665).png,Viral Pneumonia,2,0,0,1
+3210,./data/Viral Pneumonia/Viral Pneumonia (670).png,Viral Pneumonia,2,0,0,1
+3226,./data/Viral Pneumonia/Viral Pneumonia (686).png,Viral Pneumonia,2,0,0,1
+3233,./data/Viral Pneumonia/Viral Pneumonia (693).png,Viral Pneumonia,2,0,0,1
+3234,./data/Viral Pneumonia/Viral Pneumonia (694).png,Viral Pneumonia,2,0,0,1
+3243,./data/Viral Pneumonia/Viral Pneumonia (703).png,Viral Pneumonia,2,0,0,1
+3244,./data/Viral Pneumonia/Viral Pneumonia (704).png,Viral Pneumonia,2,0,0,1
+3245,./data/Viral Pneumonia/Viral Pneumonia (705).png,Viral Pneumonia,2,0,0,1
+3246,./data/Viral Pneumonia/Viral Pneumonia (706).png,Viral Pneumonia,2,0,0,1
+3248,./data/Viral Pneumonia/Viral Pneumonia (708).png,Viral Pneumonia,2,0,0,1
+3249,./data/Viral Pneumonia/Viral Pneumonia (709).png,Viral Pneumonia,2,0,0,1
+3258,./data/Viral Pneumonia/Viral Pneumonia (718).png,Viral Pneumonia,2,0,0,1
+3259,./data/Viral Pneumonia/Viral Pneumonia (719).png,Viral Pneumonia,2,0,0,1
+3264,./data/Viral Pneumonia/Viral Pneumonia (724).png,Viral Pneumonia,2,0,0,1
+3269,./data/Viral Pneumonia/Viral Pneumonia (729).png,Viral Pneumonia,2,0,0,1
+3272,./data/Viral Pneumonia/Viral Pneumonia (732).png,Viral Pneumonia,2,0,0,1
+3278,./data/Viral Pneumonia/Viral Pneumonia (738).png,Viral Pneumonia,2,0,0,1
+3292,./data/Viral Pneumonia/Viral Pneumonia (752).png,Viral Pneumonia,2,0,0,1
+3293,./data/Viral Pneumonia/Viral Pneumonia (753).png,Viral Pneumonia,2,0,0,1
+3300,./data/Viral Pneumonia/Viral Pneumonia (760).png,Viral Pneumonia,2,0,0,1
+3306,./data/Viral Pneumonia/Viral Pneumonia (766).png,Viral Pneumonia,2,0,0,1
+3317,./data/Viral Pneumonia/Viral Pneumonia (777).png,Viral Pneumonia,2,0,0,1
+3322,./data/Viral Pneumonia/Viral Pneumonia (782).png,Viral Pneumonia,2,0,0,1
+3324,./data/Viral Pneumonia/Viral Pneumonia (784).png,Viral Pneumonia,2,0,0,1
+3332,./data/Viral Pneumonia/Viral Pneumonia (792).png,Viral Pneumonia,2,0,0,1
+3335,./data/Viral Pneumonia/Viral Pneumonia (795).png,Viral Pneumonia,2,0,0,1
+3336,./data/Viral Pneumonia/Viral Pneumonia (796).png,Viral Pneumonia,2,0,0,1
+3339,./data/Viral Pneumonia/Viral Pneumonia (799).png,Viral Pneumonia,2,0,0,1
+3340,./data/Viral Pneumonia/Viral Pneumonia (800).png,Viral Pneumonia,2,0,0,1
+3341,./data/Viral Pneumonia/Viral Pneumonia (801).png,Viral Pneumonia,2,0,0,1
+3347,./data/Viral Pneumonia/Viral Pneumonia (807).png,Viral Pneumonia,2,0,0,1
+3348,./data/Viral Pneumonia/Viral Pneumonia (808).png,Viral Pneumonia,2,0,0,1
+3369,./data/Viral Pneumonia/Viral Pneumonia (829).png,Viral Pneumonia,2,0,0,1
+3371,./data/Viral Pneumonia/Viral Pneumonia (831).png,Viral Pneumonia,2,0,0,1
+3380,./data/Viral Pneumonia/Viral Pneumonia (840).png,Viral Pneumonia,2,0,0,1
+3381,./data/Viral Pneumonia/Viral Pneumonia (841).png,Viral Pneumonia,2,0,0,1
+3392,./data/Viral Pneumonia/Viral Pneumonia (852).png,Viral Pneumonia,2,0,0,1
+3400,./data/Viral Pneumonia/Viral Pneumonia (860).png,Viral Pneumonia,2,0,0,1
+3406,./data/Viral Pneumonia/Viral Pneumonia (866).png,Viral Pneumonia,2,0,0,1
+3437,./data/Viral Pneumonia/Viral Pneumonia (897).png,Viral Pneumonia,2,0,0,1
+3439,./data/Viral Pneumonia/Viral Pneumonia (899).png,Viral Pneumonia,2,0,0,1
+3445,./data/Viral Pneumonia/Viral Pneumonia (905).png,Viral Pneumonia,2,0,0,1
+3447,./data/Viral Pneumonia/Viral Pneumonia (907).png,Viral Pneumonia,2,0,0,1
+3451,./data/Viral Pneumonia/Viral Pneumonia (911).png,Viral Pneumonia,2,0,0,1
+3462,./data/Viral Pneumonia/Viral Pneumonia (922).png,Viral Pneumonia,2,0,0,1
+3465,./data/Viral Pneumonia/Viral Pneumonia (925).png,Viral Pneumonia,2,0,0,1
+3468,./data/Viral Pneumonia/Viral Pneumonia (928).png,Viral Pneumonia,2,0,0,1
+3470,./data/Viral Pneumonia/Viral Pneumonia (930).png,Viral Pneumonia,2,0,0,1
+3472,./data/Viral Pneumonia/Viral Pneumonia (932).png,Viral Pneumonia,2,0,0,1
+3477,./data/Viral Pneumonia/Viral Pneumonia (937).png,Viral Pneumonia,2,0,0,1
+3478,./data/Viral Pneumonia/Viral Pneumonia (938).png,Viral Pneumonia,2,0,0,1
+3484,./data/Viral Pneumonia/Viral Pneumonia (944).png,Viral Pneumonia,2,0,0,1
+3486,./data/Viral Pneumonia/Viral Pneumonia (946).png,Viral Pneumonia,2,0,0,1
+3490,./data/Viral Pneumonia/Viral Pneumonia (950).png,Viral Pneumonia,2,0,0,1
+3493,./data/Viral Pneumonia/Viral Pneumonia (953).png,Viral Pneumonia,2,0,0,1
+3496,./data/Viral Pneumonia/Viral Pneumonia (956).png,Viral Pneumonia,2,0,0,1
+3497,./data/Viral Pneumonia/Viral Pneumonia (957).png,Viral Pneumonia,2,0,0,1
+3500,./data/Viral Pneumonia/Viral Pneumonia (960).png,Viral Pneumonia,2,0,0,1
+3501,./data/Viral Pneumonia/Viral Pneumonia (961).png,Viral Pneumonia,2,0,0,1
+3504,./data/Viral Pneumonia/Viral Pneumonia (964).png,Viral Pneumonia,2,0,0,1
+3513,./data/Viral Pneumonia/Viral Pneumonia (973).png,Viral Pneumonia,2,0,0,1
+3524,./data/Viral Pneumonia/Viral Pneumonia (984).png,Viral Pneumonia,2,0,0,1
+3530,./data/Viral Pneumonia/Viral Pneumonia (990).png,Viral Pneumonia,2,0,0,1
+3531,./data/Viral Pneumonia/Viral Pneumonia (991).png,Viral Pneumonia,2,0,0,1
+3548,./data/Viral Pneumonia/Viral Pneumonia (1008).png,Viral Pneumonia,2,0,0,1
+3552,./data/Viral Pneumonia/Viral Pneumonia (1012).png,Viral Pneumonia,2,0,0,1
+3558,./data/Viral Pneumonia/Viral Pneumonia (1018).png,Viral Pneumonia,2,0,0,1
+3562,./data/Viral Pneumonia/Viral Pneumonia (1022).png,Viral Pneumonia,2,0,0,1
+3575,./data/Viral Pneumonia/Viral Pneumonia (1035).png,Viral Pneumonia,2,0,0,1
+3581,./data/Viral Pneumonia/Viral Pneumonia (1041).png,Viral Pneumonia,2,0,0,1
+3582,./data/Viral Pneumonia/Viral Pneumonia (1042).png,Viral Pneumonia,2,0,0,1
+3583,./data/Viral Pneumonia/Viral Pneumonia (1043).png,Viral Pneumonia,2,0,0,1
+3588,./data/Viral Pneumonia/Viral Pneumonia (1048).png,Viral Pneumonia,2,0,0,1
+3591,./data/Viral Pneumonia/Viral Pneumonia (1051).png,Viral Pneumonia,2,0,0,1
+3592,./data/Viral Pneumonia/Viral Pneumonia (1052).png,Viral Pneumonia,2,0,0,1
+3594,./data/Viral Pneumonia/Viral Pneumonia (1054).png,Viral Pneumonia,2,0,0,1
+3599,./data/Viral Pneumonia/Viral Pneumonia (1059).png,Viral Pneumonia,2,0,0,1
+3604,./data/Viral Pneumonia/Viral Pneumonia (1064).png,Viral Pneumonia,2,0,0,1
+3620,./data/Viral Pneumonia/Viral Pneumonia (1080).png,Viral Pneumonia,2,0,0,1
+3622,./data/Viral Pneumonia/Viral Pneumonia (1082).png,Viral Pneumonia,2,0,0,1
+3639,./data/Viral Pneumonia/Viral Pneumonia (1099).png,Viral Pneumonia,2,0,0,1
+3642,./data/Viral Pneumonia/Viral Pneumonia (1102).png,Viral Pneumonia,2,0,0,1
+3644,./data/Viral Pneumonia/Viral Pneumonia (1104).png,Viral Pneumonia,2,0,0,1
+3646,./data/Viral Pneumonia/Viral Pneumonia (1106).png,Viral Pneumonia,2,0,0,1
+3652,./data/Viral Pneumonia/Viral Pneumonia (1112).png,Viral Pneumonia,2,0,0,1
+3654,./data/Viral Pneumonia/Viral Pneumonia (1114).png,Viral Pneumonia,2,0,0,1
+3658,./data/Viral Pneumonia/Viral Pneumonia (1118).png,Viral Pneumonia,2,0,0,1
+3659,./data/Viral Pneumonia/Viral Pneumonia (1119).png,Viral Pneumonia,2,0,0,1
+3665,./data/Viral Pneumonia/Viral Pneumonia (1125).png,Viral Pneumonia,2,0,0,1
+3675,./data/Viral Pneumonia/Viral Pneumonia (1135).png,Viral Pneumonia,2,0,0,1
+3683,./data/Viral Pneumonia/Viral Pneumonia (1143).png,Viral Pneumonia,2,0,0,1
+3684,./data/Viral Pneumonia/Viral Pneumonia (1144).png,Viral Pneumonia,2,0,0,1
+3695,./data/Viral Pneumonia/Viral Pneumonia (1155).png,Viral Pneumonia,2,0,0,1
+3701,./data/Viral Pneumonia/Viral Pneumonia (1161).png,Viral Pneumonia,2,0,0,1
+3705,./data/Viral Pneumonia/Viral Pneumonia (1165).png,Viral Pneumonia,2,0,0,1
+3706,./data/Viral Pneumonia/Viral Pneumonia (1166).png,Viral Pneumonia,2,0,0,1
+3715,./data/Viral Pneumonia/Viral Pneumonia (1175).png,Viral Pneumonia,2,0,0,1
+3718,./data/Viral Pneumonia/Viral Pneumonia (1178).png,Viral Pneumonia,2,0,0,1
+3729,./data/Viral Pneumonia/Viral Pneumonia (1189).png,Viral Pneumonia,2,0,0,1
+3731,./data/Viral Pneumonia/Viral Pneumonia (1191).png,Viral Pneumonia,2,0,0,1
+3735,./data/Viral Pneumonia/Viral Pneumonia (1195).png,Viral Pneumonia,2,0,0,1
+3737,./data/Viral Pneumonia/Viral Pneumonia (1197).png,Viral Pneumonia,2,0,0,1
+3739,./data/Viral Pneumonia/Viral Pneumonia (1199).png,Viral Pneumonia,2,0,0,1
+3741,./data/Viral Pneumonia/Viral Pneumonia (1201).png,Viral Pneumonia,2,0,0,1
+3755,./data/Viral Pneumonia/Viral Pneumonia (1215).png,Viral Pneumonia,2,0,0,1
+3756,./data/Viral Pneumonia/Viral Pneumonia (1216).png,Viral Pneumonia,2,0,0,1
+3762,./data/Viral Pneumonia/Viral Pneumonia (1222).png,Viral Pneumonia,2,0,0,1
+3763,./data/Viral Pneumonia/Viral Pneumonia (1223).png,Viral Pneumonia,2,0,0,1
+3769,./data/Viral Pneumonia/Viral Pneumonia (1229).png,Viral Pneumonia,2,0,0,1
+3773,./data/Viral Pneumonia/Viral Pneumonia (1233).png,Viral Pneumonia,2,0,0,1
+3776,./data/Viral Pneumonia/Viral Pneumonia (1236).png,Viral Pneumonia,2,0,0,1
+3786,./data/Viral Pneumonia/Viral Pneumonia (1246).png,Viral Pneumonia,2,0,0,1
+3795,./data/Viral Pneumonia/Viral Pneumonia (1255).png,Viral Pneumonia,2,0,0,1
+3800,./data/Viral Pneumonia/Viral Pneumonia (1260).png,Viral Pneumonia,2,0,0,1
+3803,./data/Viral Pneumonia/Viral Pneumonia (1263).png,Viral Pneumonia,2,0,0,1
+3805,./data/Viral Pneumonia/Viral Pneumonia (1265).png,Viral Pneumonia,2,0,0,1
+3806,./data/Viral Pneumonia/Viral Pneumonia (1266).png,Viral Pneumonia,2,0,0,1
+3808,./data/Viral Pneumonia/Viral Pneumonia (1268).png,Viral Pneumonia,2,0,0,1
+3814,./data/Viral Pneumonia/Viral Pneumonia (1274).png,Viral Pneumonia,2,0,0,1
+3825,./data/Viral Pneumonia/Viral Pneumonia (1285).png,Viral Pneumonia,2,0,0,1
+3827,./data/Viral Pneumonia/Viral Pneumonia (1287).png,Viral Pneumonia,2,0,0,1
+3834,./data/Viral Pneumonia/Viral Pneumonia (1294).png,Viral Pneumonia,2,0,0,1
+3835,./data/Viral Pneumonia/Viral Pneumonia (1295).png,Viral Pneumonia,2,0,0,1
+3840,./data/Viral Pneumonia/Viral Pneumonia (1300).png,Viral Pneumonia,2,0,0,1
+3841,./data/Viral Pneumonia/Viral Pneumonia (1301).png,Viral Pneumonia,2,0,0,1
+3846,./data/Viral Pneumonia/Viral Pneumonia (1306).png,Viral Pneumonia,2,0,0,1
+3847,./data/Viral Pneumonia/Viral Pneumonia (1307).png,Viral Pneumonia,2,0,0,1
+3854,./data/Viral Pneumonia/Viral Pneumonia (1314).png,Viral Pneumonia,2,0,0,1
+3859,./data/Viral Pneumonia/Viral Pneumonia (1319).png,Viral Pneumonia,2,0,0,1
+3860,./data/Viral Pneumonia/Viral Pneumonia (1320).png,Viral Pneumonia,2,0,0,1
+3862,./data/Viral Pneumonia/Viral Pneumonia (1322).png,Viral Pneumonia,2,0,0,1
+3866,./data/Viral Pneumonia/Viral Pneumonia (1326).png,Viral Pneumonia,2,0,0,1
+3870,./data/Viral Pneumonia/Viral Pneumonia (1330).png,Viral Pneumonia,2,0,0,1
+3879,./data/Viral Pneumonia/Viral Pneumonia (1339).png,Viral Pneumonia,2,0,0,1
