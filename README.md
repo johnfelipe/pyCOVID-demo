@@ -18,7 +18,7 @@ A working Conda environment for the Streamlit demo can be created with:
 ```python
 conda create --name strmlt python=3.7.9
 conda activate strmlt
-pip install tensorflow       # tensorflow==2.4.1
+pip install tensorflow==2.4.1
 conda install pandas numpy matplotlib opencv streamlit
 ```
 
