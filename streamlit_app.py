@@ -21,6 +21,10 @@ st.sidebar.write("Classification project of COVID+ chest X-rays")
 
 pages = ["Project", "Dataset exploration", "Preprocessing", "Modelization", "Prediction demo", "Improving & understanding the model", "Conclusion & Perspectives"]
 section = st.sidebar.radio('', pages)
+# hdrs = ["1. Simple CNN model", "2. Benchmark", "3. Transfer learning: DenseNet201", "4. Recap"]
+#
+# if section == "Modelization":
+#     header_select = st.sidebar.selectbox("Navigate within Modelization:", hdrs)
 
 st.sidebar.write("")
 
@@ -46,6 +50,9 @@ page_bg_img = '''
     </style>
     '''
 
+
+st.markdown("<div id='linkto_top'></div>", unsafe_allow_html=True)
+
 ############################################################################################################# Project presentation
 
 if section == "Project":
@@ -63,13 +70,8 @@ almost **115 million reported contaminations** and over **2.5 million deaths wor
 
 Amongst the available diagnostic tools is the chest radiography: chest X-rays can detect COVID-19+ patients since its main clinical characteristic is that of bronchopneumonia.""")
 
-# The COVID-19 pandemic has put some **health systems under immense pressure and stretched others beyond their capacity**.
-# As such, responding to this public health emergency and successfully minimizing its impact requires every health resource to be leveraged. AI could be one of them.
-# Indeed, correctly diagnosing symptomatic patients arriving at the hospital is critical for determining their care protocol, and quarantining if necessary.
-# In a time where **health professionals are particularly affected by the disease and under staffing is prevalent, machine-assisted diagnostics could be more efficient**.
-# Especially in countries where the reference RT-PCR tests are in significant shortage.
 
-    st.image("./streamlit_imgs/HorryCOVIDXrays.png")
+    st.image("./streamlit_imgs/HorryCOVIDXrays.png", width=800)
     # st.image("./streamlit_imgs/HorryCOVIDXrays_small.png")
     st.markdown("""<center><small><i>Evolution of COVID-19 patient. Adapted from Horry </i>et al.<i>, 2020, </i>IEEE Access</small></center>""",
                 unsafe_allow_html=True)
@@ -86,6 +88,7 @@ They found the **AI model had higher** test **accuracy**, **sensitivity** and **
 
     st.subheader("Objective")
     st.write("Our goal was to design a model able to **accurately differentiate and classify COVID-19+, healthy or viral pneumonia** patients based on a dataset of **chest X-rays**.")
+
 
 ############################################################################################################# Dataset exploration
 
@@ -105,7 +108,7 @@ code = """Google Colab
     └─ Viral Pneumonia.metadata.xlsx
 """
 
-data_prez = """The _COVID-19 Radiography Database_ dataset has been made publicly available on [Kaggle](https://www.kaggle.com/tawsifurrahman/covid19-radiography-database) by Chowdhury _et al._
+data_prez = """The _COVID-19 Radiography Database_ dataset has been made publicly available on [Kaggle](https://www.kaggle.com/tawsifurrahman/covid19-radiography-database) by Chowdhury _et al.<sup>1</sup>_
 
 It contains **3886 chest X-rays** in `PNG` format, aggregated from various sources, which have been diagnosed as either **COVID-19 positive** (`COVID`), **healthy** (`Normal`), or **viral pneumonia** (`Viral Pneumonia`).
 Metadata files have been generated for each class as an Excel table. The dataset exploration revealed that the `COVID-1200.png` file was **missing** from the metadata dataframe while present in the image folder.
@@ -116,7 +119,7 @@ The `Normal` and `Viral Pneumonia` images are **1024 x 1024px** while `COVID` im
 if section == "Dataset exploration":
     st.title("Dataset exploration")
 
-    st.write(data_prez)
+    st.markdown(data_prez, unsafe_allow_html=True)
 
     st.subheader("Data structure")
     st.code(code)
@@ -137,8 +140,11 @@ if section == "Dataset exploration":
 
     st.header("Random X-ray from each class:")
 
+    coll1, coll2 = st.beta_columns([3, 1])
+
     types, num_files, rand_n, img_paths, imgs, fig = random_set()
-    st.pyplot(fig)
+    with coll1:
+        st.pyplot(fig)
 
     rand_gen = st.button("Generate random set")
 
@@ -155,6 +161,19 @@ while _COVID-19_ and _Viral pneumonia_ X-rays have, in general, more opaque/whit
     st.write(contrast_block)
 
     st.image("./streamlit_imgs/intensity_counts.png")
+
+    st.markdown("""
+            <br>
+
+            ---""", unsafe_allow_html=True)
+
+    st.markdown("<center><a href='#linkto_top'>Go back to top</a></center><br>", unsafe_allow_html=True)
+
+    st.markdown("""<small>1: M.E.H. Chowdhury, T. Rahman, A. Khandakar, R. Mazhar, M.A. Kadir, Z.B. Mahbub, K.R. Islam, M.S. Khan, A. Iqbal, N. Al-Emadi, M.B.I. Reaz, M. T. Islam,
+    "Can AI help in screening Viral and COVID-19 pneumonia?" IEEE Access, Vol. 8, 2020, pp. 132665 - 132676, [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9144185)</small>""",
+                unsafe_allow_html=True)
+
+
 
 # Dataset exploration
 ############################################################################################################# Preprocessing
@@ -192,6 +211,13 @@ if section == "Preprocessing":
 * **training set:** 80%
 * **testing set:** 20%""")
 
+    st.markdown("""
+            <br>
+
+            ---""", unsafe_allow_html=True)
+
+    st.markdown("<center><a href='#linkto_top'>Go back to top</a></center>", unsafe_allow_html=True)
+
 
 
 # Preprocessing
@@ -218,6 +244,10 @@ if section == "Modelization":
 
     hdrs = ["1. Simple CNN model", "2. Benchmark", "3. Transfer learning: DenseNet201", "4. Recap"]
 
+
+    # add anchor to go back to navigation menu
+    st.markdown("<div id='linkto_navmenu'></div>", unsafe_allow_html=True)
+
     header_select = st.selectbox("Navigate:", hdrs)
 
     st.markdown("<br>", unsafe_allow_html=True)
@@ -231,7 +261,7 @@ if section == "Modelization":
 
 
         st.subheader("Architecture")
-        st.image("./streamlit_imgs/customCNN--archi.png")
+        st.image("./streamlit_imgs/customCNN--archi.png", width=1000)
 
         st.markdown("<br>", unsafe_allow_html=True)
 
@@ -255,27 +285,40 @@ if section == "Modelization":
 
         st.markdown("<br>", unsafe_allow_html=True)
 
-        with st.beta_expander(label="Show results"):
-            st.subheader("`classification_report()`")
-            st.image("./streamlit_imgs/results_CNN.png")
+        st.subheader("Results")
+        st.subheader("`classification_report()`")
+        st.image("./streamlit_imgs/results_CNN.png")
 
-            st.subheader("`confusion_matrix()`")
-            st.image("./streamlit_imgs/cnfMatrix_customCNN.png")
+        st.subheader("`confusion_matrix()`")
+        st.image("./streamlit_imgs/cnfMatrix_customCNN.png")
 
-            st.subheader("`model.evaluate()`")
-            st.image("./streamlit_imgs/RobustnessCustomCNN.png", width=350)
 
-        st.markdown("<br>", unsafe_allow_html=True)
+        st.subheader("`model.evaluate()`")
+        st.image("./streamlit_imgs/RobustnessCustomCNN.png", width=350)
 
-        st.markdown("""<small>1: Densely Connected Convolutional Networks, Huang _et al._, 2018, [arXiv](https://arxiv.org/pdf/1608.06993.pdf)    
-2: [Understanding and visualizing DenseNets](https://towardsdatascience.com/understanding-and-visualizing-densenets-7f688092391a), Pablo Ruiz, 2018</small>""",
-                    unsafe_allow_html=True)
+        st.markdown("""
+        <br>
+        
+        ---""", unsafe_allow_html=True)
+
+        st.markdown("<center><a href='#linkto_top'>Go back to top</a> &nbsp; &bull; &nbsp; <a href='#linkto_navmenu'>Go back to navigation menu</a></center>", unsafe_allow_html=True)
+
 
     if header_select == "2. Benchmark":
         st.header("2. Benchmark")
         st.image("./streamlit_imgs/results-3class.png")
         st.markdown("""<center><small><i>From Chowdhury</i> et al.<i>, 2020,</i> IEEE Access</small></center>""",
                     unsafe_allow_html=True)
+
+        st.markdown("""
+                <br>
+
+                ---""", unsafe_allow_html=True)
+
+        st.markdown(
+            "<center><a href='#linkto_top'>Go back to top</a> &nbsp; &bull; &nbsp; <a href='#linkto_navmenu'>Go back to navigation menu</a></center>",
+            unsafe_allow_html=True)
+
 
     if header_select == "3. Transfer learning: DenseNet201":
 
@@ -326,15 +369,30 @@ there are some useful features specific to our dataset that it can find by fine 
 
         st.markdown("<br>", unsafe_allow_html=True)
 
-        with st.beta_expander(label="Show results"):
-            st.subheader("`classification_report()`")
-            st.image("./streamlit_imgs/results_DN201.png")
+        st.subheader("Results")
 
-            st.subheader("`confusion_matrix()`")
-            st.image("./streamlit_imgs/cnfMatrix_Iteration2--Finale--DN201--Unfreezed.png")
+        st.subheader("`classification_report()`")
+        st.image("./streamlit_imgs/results_DN201.png")
 
-            st.subheader("`model.evaluate()`")
-            st.image("./streamlit_imgs/RobustnessDN201.png", width=350)
+        st.subheader("`confusion_matrix()`")
+        st.image("./streamlit_imgs/cnfMatrix_Iteration2--Finale--DN201--Unfreezed.png")
+
+        st.subheader("`model.evaluate()`")
+        st.image("./streamlit_imgs/RobustnessDN201.png", width=350)
+
+        st.markdown("""
+                <br>
+
+                ---""", unsafe_allow_html=True)
+
+
+        st.markdown(
+            "<center><a href='#linkto_top'>Go back to top</a> &nbsp; &bull; &nbsp; <a href='#linkto_navmenu'>Go back to navigation menu</a></center>",
+            unsafe_allow_html=True)
+
+        st.markdown("""<small>1: Densely Connected Convolutional Networks, Huang _et al._, 2018, [arXiv](https://arxiv.org/pdf/1608.06993.pdf)    
+        2: [Understanding and visualizing DenseNets](https://towardsdatascience.com/understanding-and-visualizing-densenets-7f688092391a), Pablo Ruiz, 2018</small>""",
+                    unsafe_allow_html=True)
 
 
     if header_select == "4. Recap":
@@ -349,8 +407,14 @@ there are some useful features specific to our dataset that it can find by fine 
         st.subheader("DenseNet201")
         st.image("./streamlit_imgs/cnfMatrix_Iteration2--Finale--DN201--Unfreezed.png")
 
+        st.markdown("""
+                <br>
 
+                ---""", unsafe_allow_html=True)
 
+        st.markdown(
+            "<center><a href='#linkto_top'>Go back to top</a> &nbsp; &bull; &nbsp; <a href='#linkto_navmenu'>Go back to navigation menu</a></center>",
+            unsafe_allow_html=True)
 
 
 # Modelization
@@ -451,8 +515,8 @@ Image segmentation is usually a supervised learning task, with an annotated data
 of relevant areas done by a radiologist. This is obviously not the case here, so we tried a **manual unsupervised approach**.""")
 
 
-    with st.beta_expander("Display the segmentation process"):
-        st.image("./streamlit_imgs/ImageSegmentation.png")
+    # with st.beta_expander("Display the segmentation process"):
+    st.image("./streamlit_imgs/ImageSegmentation.png")
 
     st.markdown("<br>", unsafe_allow_html=True)
 
@@ -464,24 +528,33 @@ of relevant areas done by a radiologist. This is obviously not the case here, so
     st.write("_Example of Taj Mahal picture :_")
 
     st.image("./streamlit_imgs/taj_mahal_conv_process.gif")
+    st.markdown(
+        """<center><small><i>Adapted from DataScientest.</i></small></center><br>""",
+        unsafe_allow_html=True)
 
-    st.write("""In our strategy of improving used models, visualising features 
+    col1, col2, col3 = st.beta_columns([1, 1, 2])
+
+    with col2:
+        st.write("""In our strategy of improving used models, visualising features 
     maps can help us gain insight into the inner workings of the model and get some 
     understanding of which features the CNN model will detect.""")
 
-    st.image("./streamlit_imgs/Chowdhury2020_fig8.png")
-    st.markdown("""<small><i>From Chowdhury</i> et al.<i>, 2020,</i> IEEE Access</small>""",
+    with col1:
+        st.image("./streamlit_imgs/Chowdhury2020_fig8.png")
+        st.markdown("""<small><i>From Chowdhury</i> et al.<i>, 2020,</i> IEEE Access</small>""",
                 unsafe_allow_html=True)
 
     st.markdown("<br>", unsafe_allow_html=True)
 
-    with st.beta_expander("Display input image"):
-        st.image("./streamlit_imgs/segm_orig.png")
-        st.markdown(
+    st.subheader("Input image")
+    st.image("./streamlit_imgs/segm_orig.png")
+    st.markdown(
             """<small>Image size is **224 x 224 pixels**</small>""",
             unsafe_allow_html=True)
 
     st.markdown("<br>", unsafe_allow_html=True)
+
+    st.write("_Click to show feature maps from convolution blocks:_")
 
     col1, col2, col3, col4, col5 = st.beta_columns(5)
 
@@ -504,7 +577,12 @@ of relevant areas done by a radiologist. This is obviously not the case here, so
     if col5.button("Convolution 5"):
         st.image("./streamlit_imgs/segm_5.png")
 
+    st.markdown("""
+            <br>
 
+            ---""", unsafe_allow_html=True)
+
+    st.markdown("<center><a href='#linkto_top'>Go back to top</a></center>", unsafe_allow_html=True)
 
 # Improving & understanding the model
 ############################################################################################################# Conclusion & Perspectives
