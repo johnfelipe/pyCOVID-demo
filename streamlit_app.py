@@ -382,20 +382,20 @@ if section == "Prediction demo":
                 "https://aws1.discourse-cdn.com/business7/uploads/streamlit/original/2X/2/247a8220ebe0d7e99dbbd31a2c227dde7767fbe1.gif",
                 width=100)
 
-            prediction = predict_img(random_img)
+            prediction, proba = predict_img(random_img)
 
             gif_runner.empty()
 
             if prediction == "Normal":
-                diag = "The image has been predicted as **" + str(prediction) + "**."
+                diag = "The image has been predicted as **" + str(prediction) + "** with **" + str(round(proba * 100, 4)) + "%** probability."
                 st.success(diag)
 
             if prediction == "Viral pneumonia":
-                diag = "The image has been predicted as **" + str(prediction) + "**."
+                diag = "The image has been predicted as **" + str(prediction) + "** with **" + str(round(proba * 100, 4)) + "%** probability."
                 st.warning(diag)
 
             if prediction == "COVID-19+":
-                diag = "The image has been predicted as **" + str(prediction) + "**."
+                diag = "The image has been predicted as **" + str(prediction) + "** with **" + str(round(proba * 100, 4)) + "%** probability."
                 st.error(diag)
 
 
@@ -422,15 +422,15 @@ if section == "Prediction demo":
             gif_runner.empty()
 
             if prediction == "Normal":
-                diag = "The image has been predicted as **" + str(prediction) + "**."
+                diag = "The image has been predicted as **" + str(prediction) + "** with **" + str(round(proba * 100, 4)) + "%** probability."
                 st.success(diag)
 
             if prediction == "Viral pneumonia":
-                diag = "The image has been predicted as **" + str(prediction) + "**."
+                diag = "The image has been predicted as **" + str(prediction) + "** with **" + str(round(proba * 100, 4)) + "%** probability."
                 st.warning(diag)
 
             if prediction == "COVID-19+":
-                diag = "The image has been predicted as **" + str(prediction) + "**."
+                diag = "The image has been predicted as **" + str(prediction) + "** with **" + str(round(proba * 100, 4)) + "%** probability."
                 st.error(diag)
 
 
