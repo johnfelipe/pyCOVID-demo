@@ -49,5 +49,6 @@ def predict_img(file):
     result = array[0]
     #print(result)
     answer = np.argmax(result)
+    proba = result[answer]
     str_answer = np.where(answer == 0, "Normal", np.where(answer == 1, "COVID-19+", "Viral pneumonia"))
-    return str_answer
+    return str_answer, proba
