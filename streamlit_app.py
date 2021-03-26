@@ -13,10 +13,10 @@ st.set_page_config(page_title="pyCOVID", page_icon="./streamlit_imgs/COVID_logo.
 
 
 # st.sidebar.image("./streamlit_imgs/pyCOVID_spacefade.png", width=300)
-st.sidebar.image("./streamlit_imgs/pyCOVID_logo_circle.png", width=300)
+st.sidebar.image("./streamlit_imgs/pyCOVID_logo_circle.png", width=250)
 
 st.sidebar.title("pyCOVID")
-st.sidebar.write("Classification project of COVID+ chest X-rays")
+st.sidebar.write("Classification project of COVID-19+ chest X-rays")
 
 
 pages = ["Project", "Dataset exploration", "Preprocessing", "Modelization", "Prediction demo", "Improving & understanding the model", "Conclusion & Perspectives"]
@@ -26,7 +26,12 @@ section = st.sidebar.radio('', pages)
 # if section == "Modelization":
 #     header_select = st.sidebar.selectbox("Navigate within Modelization:", hdrs)
 
-st.sidebar.write("")
+if section == "Modelization":
+    st.sidebar.markdown(
+        "<small><center><a href='#linkto_top'>Go back to top</a> &nbsp; &bull; &nbsp; <a href='#linkto_navmenu'>Go back to navigation menu</a></center></small>",
+        unsafe_allow_html=True)
+else:
+    st.sidebar.markdown("<small><center><a href='#linkto_top'>Go back to top</a></center></small>", unsafe_allow_html=True)
 
 description = """
 End of training project &mdash; Promotion Bootcamp Data Scientist Dec. 2020
@@ -40,6 +45,7 @@ Presented on March 5th, 2021
 """
 
 st.sidebar.info(description)
+
 
 page_bg_img = '''
     <style>
@@ -128,6 +134,9 @@ if section == "Dataset exploration":
 
     st.write("First and last 3 lines of the **metadata dataframe**:")
     st.dataframe(meta.iloc[pd.np.r_[0:3, -3:0]])
+
+    with st.beta_expander("Explore full metadata dataframe"):
+        st.dataframe(meta)
 
     st.markdown("<br>", unsafe_allow_html=True)
 
@@ -587,6 +596,7 @@ of relevant areas done by a radiologist. This is obviously not the case here, so
 # Improving & understanding the model
 ############################################################################################################# Conclusion & Perspectives
 
+
 if section == "Conclusion & Perspectives":
     st.markdown(page_bg_img, unsafe_allow_html=True)
 
@@ -594,9 +604,24 @@ if section == "Conclusion & Perspectives":
 
     st.header("Conclusions")
 
-    st.write("""The DenseNet201 hybrid model we created via transfer learning gave us really good results, even if we did not do better than the original authors’ benchmark.
+    st.markdown("""The DenseNet201 hybrid model we created via transfer learning gave us really good results, even if we did not do better than the original authors’ benchmark.
 Still, this project was a great learning experience that helped us grasp some Deep Learning concepts that were still a bit too abstract for us.
+
+However, caution should be exercised when observing these results. The dataset we used aggregates X-rays from various sources, as shown on the confusion matrix below.
+All the normal and viral pneumonia X-rays come from the [same dataset](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia) where it is stated that they:
+
+1. all come from the **same hospital** (Guangzhou Women and Children’s Medical Center), meaning the same kind of imaging artefacts across all normal and viral pneumonia X-rays;
+1. are all from **children** between one and five years old, whereas the COVID-19+ X-rays are aggregated from a variety of sources and overwhelmingly from **adult** patients.
+Meaning the model potentially classifies based on age-related anatomical differences rather than true diagnostics.
+
+The dataset has since been updated (3,616 COVID-19+, 10,192 normal, 6,012 lung opacities, 1,345 viral pneumonia X-rays as of writing) and is hopefully more diverse.
+We however recommend that this pediatric sub-dataset be dropped from the main dataset for future analyses, as it introduces too big a bias. 
+
+
 """)
+
+    meta = meta_df()
+    st.dataframe(pd.crosstab(meta["source_url"], meta["type"]))
 
     st.header("Perspectives")
 
@@ -609,5 +634,5 @@ instead of using only the state-of-the-art ones available in Keras/TensorFlow.""
 
     st.header("Application")
 
-    st.write("""All in all, this model (or a better & stronger version of it :) ) could definitely be implemented in the not-so-distant future, to assist diagnosing patients.
+    st.write("""All in all, this model (a better & stronger version of it :) ) could definitely be implemented in the not-so-distant future, to assist diagnosing patients.
 Especially considering the fact that global pandemics such as the current one are known to be a cyclic phenomenon bound to repeat itself every 5-10 years.""")
