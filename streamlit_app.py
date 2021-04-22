@@ -15,7 +15,7 @@ st.set_page_config(page_title="pyCOVID", page_icon="./streamlit_imgs/COVID_logo.
 # st.sidebar.image("./streamlit_imgs/pyCOVID_spacefade.png", width=300)
 st.sidebar.image("./streamlit_imgs/pyCOVID_logo_circle.png", width=250)
 
-st.sidebar.title("pyCOVID")
+st.sidebar.title("pyCOVID / [![GitHub](https://i.imgur.com/UfJLAsM.png)](https://github.com/CarolineP-DS/pyCOVID-demo)")
 st.sidebar.write("Classification project of COVID-19+ chest X-rays")
 
 
@@ -36,9 +36,9 @@ else:
 description = """
 End of training project &mdash; Promotion Bootcamp Data Scientist Dec. 2020
 
-**Brahim MOUDJED** : [LinkedIn](http://www.linkedin.com/in/brahim-moudjed-lyon-fr)
+**Brahim MOUDJED** : [![LinkedIn](https://i.imgur.com/FHTZ6xD.png)](http://www.linkedin.com/in/brahim-moudjed-lyon-fr)
 
-**Caroline PIROU** : [LinkedIn](http://www.linkedin.com/in/caroline-pirou)
+**Caroline PIROU** : [![LinkedIn](https://i.imgur.com/FHTZ6xD.png)](http://www.linkedin.com/in/caroline-pirou) &ndash; [![GitHub](https://i.imgur.com/spa7zPi.png)](https://github.com/CarolineP-DS?tab=repositories)
 
 Mentor : Souhail HADGI  
 Presented on March 5th, 2021
