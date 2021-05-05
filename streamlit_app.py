@@ -49,7 +49,7 @@ st.sidebar.info(description)
 
 page_bg_img = '''
     <style>
-    body {
+    .stApp {
     background-image: url("https://i.imgur.com/Fcbc9Mb.png");
     background-size: cover;    
     }
@@ -434,6 +434,8 @@ from predict import predict_img, random_pick
 
 if section == "Prediction demo":
 
+    st.markdown(page_bg_img, unsafe_allow_html=True)
+
     st.title("Prediction demo")
 
     st.write("Our DenseNet201 full model was saved _via_ a `ModelCheckpoint` callback during the fitting process. "
@@ -476,7 +478,7 @@ if section == "Prediction demo":
 
     st.header("Predicting on a novel chest X-ray")
 
-    uploaded_file = st.file_uploader("Choose an image...", type="jpg")
+    uploaded_file = st.file_uploader("Upload your own image...", type="jpg")
 
     temp_file = NamedTemporaryFile(delete=False)
 
