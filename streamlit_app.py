@@ -56,6 +56,7 @@ page_bg_img = '''
     </style>
     '''
 
+st.markdown(page_bg_img, unsafe_allow_html=True)
 
 st.markdown("<div id='linkto_top'></div>", unsafe_allow_html=True)
 
@@ -245,8 +246,8 @@ if section == "Modelization":
     st.write(model_desc)
 
     st.image("./streamlit_imgs/CNN_archi.png")
-    st.markdown("""<center><small><i>From <a href="https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53">
-        A Comprehensive Guide to Convolutional Neural Networks — the ELI5 way</a>, by Sumit Saha</i></small></center>""",
+    st.markdown("""<small><i>From <a href="https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53">
+        A Comprehensive Guide to Convolutional Neural Networks — the ELI5 way</a>, by Sumit Saha</i></small>""",
                 unsafe_allow_html=True)
 
     st.markdown("<br><br>", unsafe_allow_html=True)
