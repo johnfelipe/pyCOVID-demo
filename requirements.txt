@@ -3,4 +3,4 @@ openpyxl == 3.0.6         # to open the .xlsx metadata files with pandas
 numpy == 1.19.5
 matplotlib == 3.3.4
 opencv-python-headless
-tensorflow == 2.4.1
+tensorflow == 2.4.2
